@@ -13,6 +13,7 @@
 - seaborn  
 - matplotlib   
 - r2_score, mean_squared_error
+- LightGBM
 
 ## Цель исследования
 
