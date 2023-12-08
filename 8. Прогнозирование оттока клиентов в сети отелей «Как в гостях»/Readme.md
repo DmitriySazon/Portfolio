@@ -14,7 +14,6 @@
 - sklearn
 - matplotlib
 - cross_val_score
-- mean_squared_error
 - StandardScaler
 - LogisticRegression
 - DecisionTreeClassifier
